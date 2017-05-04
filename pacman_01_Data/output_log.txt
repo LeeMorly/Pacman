@@ -1,0 +1,107 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Mobility Radeon HD 4200 (ID=0x9712)
+    Vendor:   ATI
+    VRAM:     1019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.114 seconds
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lee\Documents\HMS.2_01\Pacman\pacman_01_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.275512 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.079863 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 0.865232 ms (FindLiveObjects: 0.206775 ms CreateObjectMapping: 0.077235 ms MarkObjects: 0.524516 ms  DeleteObjects: 0.054749 ms)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.894373 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 6.156837 ms (FindLiveObjects: 0.106076 ms CreateObjectMapping: 0.042039 ms MarkObjects: 0.438482 ms  DeleteObjects: 5.567306 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.581709 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1746.
+Total: 0.815371 ms (FindLiveObjects: 0.189666 ms CreateObjectMapping: 0.056215 ms MarkObjects: 0.509851 ms  DeleteObjects: 0.057682 ms)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+BCground
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2500 -> priority: 1 
